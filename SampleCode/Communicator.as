@@ -5,7 +5,6 @@
 ///  Manager Class
 ////////////////////////////////////////////////////
 
-
 package com.communication
 {
 	import com.adobe.serialization.json.*;
